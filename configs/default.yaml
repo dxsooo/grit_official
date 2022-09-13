@@ -51,3 +51,5 @@ grit:
 hydra:
   run:
     dir: ${job_dir}
+  job:
+    chdir: True

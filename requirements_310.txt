@@ -1,0 +1,10 @@
+hydra-core==1.2.0
+fiftyone==0.16.6
+opencv-python-headless==4.6.0.66
+boto3==1.24.67
+scikit-image==0.19.3
+wget==3.2
+pandas==1.4.4
+h5py==3.7.0
+numpy==1.23.2
+tqdm==4.64.1
